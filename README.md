@@ -1,7 +1,7 @@
 # Dataset Access Instructions
 
 Thank you for your interest in this dataset.  
-Because this dataset contains sensitive visual material, access is provided **upon request**.
+Because this dataset contains visual material, access is provided **upon request**.
 
 ---
 
@@ -14,7 +14,7 @@ To obtain the dataset:
 3. Ask your **supervisor/PI** to review and sign (if applicable).
 4. Send the completed and signed form to:
 
-    **Email:** dpdogra@iitbbs.ac.in, a24cs08005@iitbbs.ac.in, 24ail06011@iitbbs.ac.in  
+    **Email:** dpdogra@iitbbs.ac.in, a24cs08005@iitbbs.ac.in, 24ai06011@iitbbs.ac.in  
     **Subject:** Dataset Access Request – VAST-ReID
 
 
