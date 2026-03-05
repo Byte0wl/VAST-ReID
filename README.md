@@ -69,10 +69,12 @@ This dataset is released under the
 If you use this dataset in your research, please cite:
 
 ```bibtex
-@inproceedings{vastreid,
-  author    = {Hammad Khan and Rakesh Kumar Giri and Kamalakar Vijay Thakare and Heeseung Choi and Hyungjoo Jung and Debi Prosad Dogra and Ig{-}Jae Kim},
-  title     = {VAST-ReID: A Low-Light Benchmark Dataset for Person Re-Identification with Visual and Attribute-Rich Semantic Tracking},
-  booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
-  year      = {2026}
+@InProceedings{Khan_2026_WACV,
+    author    = {Khan, Hammad and Giri, Rakesh Kumar and Thakare, Kamalakar Vijay and Choi, Heeseung and Jung, Hyungjoo and Dogra, Debi Prosad and Kim, Ig-Jae},
+    title     = {VAST-ReID: A Low-Light Benchmark Dataset for Person Re-Identification with Visual and Attribute-Rich Semantic Tracking},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {March},
+    year      = {2026},
+    pages     = {5833-5841}
 }
 
